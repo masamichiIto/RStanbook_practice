@@ -1,0 +1,1 @@
+setwd("~/Desktop/programs/R/RStanBook/chap09")
